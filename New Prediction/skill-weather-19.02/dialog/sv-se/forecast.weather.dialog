@@ -1,0 +1,3 @@
+På {{day}} kommer det vara {{condition}}, med en topp på {{temp_max}} och en botten på {{temp_min}}
+{{day}}, {{location}} kommer ha en topp på {{temp_max}} och en botten på {{temp_min}}, med {{condition}}
+Prognosen för {{day}} är {{temp_max}} som högst och {{temp_min}} som lägst

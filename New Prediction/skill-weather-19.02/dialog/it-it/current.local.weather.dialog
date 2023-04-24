@@ -1,0 +1,4 @@
+Il tempo è attualmente {{condition}} e ci sono {{temp}} gradi {{scale}}. La previsione da una massima di {{temp_max}} e una minima di {{temp_min}}.
+Il tempo è attualmente {{condition}} e ci sono {{temp}} gradi. La previsione da una massima di {{temp_max}} e una minima di {{temp_min}}.
+Al momento c'è {{condition}} con una temperatura di {{temp}} gradi, con una massima di {{temp_max}} e una minima di {{temp_min}}.
+Con una massima di {{temp_max}} e una minima di {{temp_min}}, {{location}} ha {{condition}} e ci sono {{temp}} gradi.
